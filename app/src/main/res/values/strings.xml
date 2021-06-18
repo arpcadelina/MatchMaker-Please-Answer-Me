@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Match Maker</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="quit_game">Quit Game</string>
+    <string name="play">Play</string>
+    <string name="string_credits">Credits</string>
+    <string name="volume">Volume</string>
+    <string name="pause">Pause</string>
+    <string name="score">\tScore:</string>
+    <string name="easy_diff">Easy</string>
+    <string name="medium_diff">Medium</string>
+    <string name="hard_diff">Hard</string>
+    <string name="easy">Easy</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="credits">Credits</string>
+    <string name="howtoplay">How to Play</string>
+    <string name="close2">Close</string>
+    <string name="close">Close</string>
+    <string name="logo">LOGO</string>
+    <string name="back">Back</string>
+    <string name="creditstxt">Credits</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="exit_confirmation">Are you sure you want to exit the game?</string>
+    <string name="resume">Resume</string>
+    <string name="quit">Quit</string>
+    <string name="volume2">Volume</string>
+    <string name="yes2">Yes</string>
+    <string name="no2">No</string>
+    <string name="return_confirmation">Return to Title Screen?</string>
+    <string name="timer">0:00</string>
+    <string name="hard">Hard</string>
+    <string name="medium">Medium</string>
+    <string name="creditscontent">creditscontent</string>
+    <string name="cc">TRIPLE A COMBO\n\nBabilonia, Alejandro B.\nCadeliña, Allyza Ruth P.\nLagniton, Angeline M.\n\nBackground:
+                    \nPUP Lagoon – Raja D.\n\nBackground Music:\n\nSound Effects:
+            </string>
+    <string name="tc">1.) Choose the level of difficulty to start the game.\n2.) Every level of difficulty has different length of time given
+                    to finish combining all the cards and also has different number of cards.\n3.) During the game, choose one card to start and
+                    second card to match.\n\t\t3.1) If matched, you get +2 points and you need to answer a quiz.\n\t\t\t\t3.1.1) If the answer is correct,
+                    you get +1 point.\n\t\t\t\t3.1.2) If the answer is wrong, you get -1 point and the cards you matched will reshuffle.\n\t\t3.2) If you
+                    match the wrong cards, try again.\n4) If the timer hits 0, game over. If all cards are matched, you win.
+            </string>
+
+</resources>
